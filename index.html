@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="uft-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./css/reset.css">
+        <link rel="stylesheet" href="./css/styles.css">
+        <!-- Importar Fuente -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Playwrite+VN:wght@100..400&display=swap" rel="stylesheet">
+        <!-- Personalizacion pagina -->
+        <link rel="icon" type="image/png" href="img/icon1.png">
+        <title>Loteria Mexicana</title>
+    </head>
+
+    <body>
+        <header>
+            <div id="header-size">
+                <h1>AluraGeek - Loteria Mexicana</h1>
+            </div>
+        </header>
+
+        <main>
+            <section class="box-characters">
+                <h2 class="characters-title">Cartas:</h2>
+                <div id="characters">
+
+                </div>
+            </section>
+    
+            <section class="box-interactive">
+                <div class="box-form">
+                    <h2 id="cartitas" class="characters-title1">Añadir Carta:</h2>
+                    <form class="form-new-character" action="">
+                        <input id="nameCharacters" class="campo" type="text" placeholder="Nombre de la Carta" maxlength="50" data-name required>
+                        <input id="forceCharacters" class="campo" type="number" min="0" max="100" placeholder="Numero de Carta" required>
+                        <input id="imgCharacters" class="campo" type="text" placeholder="Imagen de la Carta" required>
+                        <div class="button-form">
+                            <button id="btnSend" class="button" >Enviar</button>
+                            <button id="btnClear" class="button" >Limpiar</button>
+                        </div>
+                    </form>
+                </div>
+            </section>
+        </main>
+    
+
+        <footer>
+            <div id="footer-size">
+            <h3 class="footer-title">Desarrollado por José Luna, Proyecto Alura 2024</h3>
+            </div>
+        </footer>
+
+        <script src="./js/app.js" type="module"></script>
+
+    </body>
+
+</html>
