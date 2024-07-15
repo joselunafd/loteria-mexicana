@@ -1,0 +1,184 @@
+{
+  "characters": [
+    {
+      "id": "d8c4",
+      "name": "El Gallo",
+      "force": 1,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/1loteria.jpg"
+    },
+    {
+      "id": "df6a",
+      "name": "El diablito",
+      "force": 2,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/2loteria.jpg"
+    },
+    {
+      "id": "ab42",
+      "name": "La dama",
+      "force": 3,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/3loteria.jpg"
+    },
+    {
+      "id": "9af2",
+      "name": "El catrín",
+      "force": 4,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/4loteria.jpg"
+    },
+    {
+      "id": "62a9",
+      "name": "El paraguas",
+      "force": 5,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/5loteria.jpg"
+    },
+    {
+      "id": "c1a0",
+      "name": "La sirena",
+      "force": 6,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/6loteria.jpg"
+    },
+    {
+      "id": "63eb",
+      "name": "La escalera",
+      "force": 7,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/7loteria.jpg"
+    },
+    {
+      "id": "c334",
+      "name": "La botella",
+      "force": 8,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/8loteria.jpg"
+    },
+    {
+      "id": "f877",
+      "name": "El barril",
+      "force": 9,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/9loteria.jpg"
+    },
+    {
+      "id": "609c",
+      "name": "El árbol",
+      "force": 10,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/10loteria.jpg"
+    },
+    {
+      "id": "8521",
+      "name": "El melón",
+      "force": 11,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/11loteria.jpg"
+    },
+    {
+      "id": "8298",
+      "name": "El valiente",
+      "force": 12,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/12loteria.jpg"
+    },
+    {
+      "id": "a14b",
+      "name": "El gorrito",
+      "force": 13,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/13loteria.jpg"
+    },
+    {
+      "id": "5d2c",
+      "name": "La muerte",
+      "force": 14,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/14loteria.jpg"
+    },
+    {
+      "id": "1838",
+      "name": "La pera",
+      "force": 15,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/15loteria.jpg"
+    },
+    {
+      "id": "eb94",
+      "name": "La bandera",
+      "force": 16,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/16loteria.jpg"
+    },
+    {
+      "id": "e5cf",
+      "name": "El bandolón",
+      "force": 17,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/17loteria.jpg"
+    },
+    {
+      "id": "9967",
+      "name": "El violoncello",
+      "force": 18,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/18loteria.jpg"
+    },
+    {
+      "id": "367e",
+      "name": "La garza",
+      "force": 19,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/19loteria.jpg"
+    },
+    {
+      "id": "5b07",
+      "name": "El pájaro",
+      "force": 20,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/20loteria.jpg"
+    },
+    {
+      "id": "14ce",
+      "name": "La mano",
+      "force": 21,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/21loteria.jpg"
+    },
+    {
+      "id": "4ed3",
+      "name": "La bota",
+      "force": 22,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/22loteria.jpg"
+    },
+    {
+      "id": "2478",
+      "name": "La luna",
+      "force": 23,
+      "img": "https://imagenpng.com/wp-content/uploads/2019/06/23loteria.jpg"
+    },
+    {
+      "id": "4c67",
+      "name": "El cotorro",
+      "force": 24,
+      "img": "https://m.media-amazon.com/images/I/61p4WE9WLfL.jpg"
+    },
+    {
+      "id": "95a7",
+      "name": "El borracho",
+      "force": 25,
+      "img": "https://m.media-amazon.com/images/I/61auLKJE+TL.jpg"
+    },
+    {
+      "id": "d05c",
+      "name": "El negrito",
+      "force": 26,
+      "img": "https://i.pinimg.com/736x/90/bc/f4/90bcf4d5c1b427c9bcef5e2c72b7b9d0.jpg"
+    },
+    {
+      "id": "8c8e",
+      "name": "El corazón",
+      "force": 27,
+      "img": "https://i.pinimg.com/736x/c4/d5/09/c4d50974b1c5eee992d33609bd5badb8.jpg"
+    },
+    {
+      "id": "214b",
+      "name": "La sandía",
+      "force": 28,
+      "img": "https://i.pinimg.com/originals/4f/9f/92/4f9f9204461c33c4f27209487c2c4d0c.jpg"
+    },
+    {
+      "id": "13a1",
+      "name": "El tambor",
+      "force": 29,
+      "img": "https://i.pinimg.com/originals/03/35/de/0335decbcda5c72bfba151f26bc6c8c5.png"
+    },
+    {
+      "id": "1c94",
+      "name": "El camarón",
+      "force": 30,
+      "img": "https://m.media-amazon.com/images/I/61CGFJgI1KS._AC_UF1000,1000_QL80_.jpg"
+    }
+  ]
+}
